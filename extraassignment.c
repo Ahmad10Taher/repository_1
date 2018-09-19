@@ -6,10 +6,10 @@ int main() {
 
 
 
-	int x;
+	double x;
 
-	scanf("%d", &x);
-	printf("%d", x);
+	scanf("%lf", &x);
+	printf("%lf", x);
 
 
 
